@@ -25,13 +25,3 @@ WebUI.setText(findTestObject('Object Repository/Page_Login - PHPTRAVELS/input_Em
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login - PHPTRAVELS/input_Forgot_password'), '3j/CWUQj8dO81Ra7+ucQLQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_Login - PHPTRAVELS/div_id(katalon-rec_elementInfoDiv)'))
-
-WebUI.click(findTestObject('Object Repository/Page_Client Area - PHPTRAVELS/a_fsdaaf dsfasf                            _c42f7f'))
-
-WebUI.click(findTestObject('Object Repository/Page_Client Area - PHPTRAVELS/a_Logout'))
-
-WebUI.click(findTestObject('Object Repository/Page_Login - PHPTRAVELS/span_View Cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart - PHPTRAVELS/div_0.00 USD'))
-
